@@ -2531,35 +2531,23 @@ var noThumbnail = "https://4.bp.blogspot.com/-eALXtf-Ljts/WrQYAbzcPUI/AAAAAAAABj
                 <b:section class='supermag-pro-main-nav' id='supermag-pro-main-nav' maxwidgets='1' name='Header Menu' showaddelement='no'>
                   <b:widget id='LinkList101' locked='true' title='' type='LinkList' visible='true'>
                     <b:widget-settings>
-                      <b:widget-setting name='text-10'>_RTL Version</b:widget-setting>
-                      <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                      <b:widget-setting name='link-1'>/search</b:widget-setting>
-                      <b:widget-setting name='link-13'>https://www.technovimal.in/</b:widget-setting>
-                      <b:widget-setting name='link-2'>#</b:widget-setting>
-                      <b:widget-setting name='link-12'>/p/tipography.html</b:widget-setting>
-                      <b:widget-setting name='link-0'>{homepage}</b:widget-setting>
-                      <b:widget-setting name='link-11'>{getMega} $label={recent}</b:widget-setting>
-                      <b:widget-setting name='link-10'>#</b:widget-setting>
-                      <b:widget-setting name='text-9'>_Error Page</b:widget-setting>
-                      <b:widget-setting name='link-9'>/404</b:widget-setting>
-                      <b:widget-setting name='text-8'>_Contact Page</b:widget-setting>
-                      <b:widget-setting name='link-7'>/2020/09/12-marketing-analytics-tools-you-have.html</b:widget-setting>
-                      <b:widget-setting name='link-8'>#</b:widget-setting>
-                      <b:widget-setting name='link-5'>/2020/09/easy-steps-to-finding-new-online.html</b:widget-setting>
-                      <b:widget-setting name='link-6'>/2020/09/9-team-building-mistakes-to-avoid-with.html</b:widget-setting>
+                      <b:widget-setting name='link-7'>#</b:widget-setting>
+                      <b:widget-setting name='link-5'>#</b:widget-setting>
+                      <b:widget-setting name='link-6'>#</b:widget-setting>
                       <b:widget-setting name='link-3'>#</b:widget-setting>
                       <b:widget-setting name='link-4'>#</b:widget-setting>
-                      <b:widget-setting name='text-1'>News</b:widget-setting>
-                      <b:widget-setting name='text-0'>Home</b:widget-setting>
-                      <b:widget-setting name='text-3'>_Featured Posts</b:widget-setting>
-                      <b:widget-setting name='text-2'>Features</b:widget-setting>
-                      <b:widget-setting name='text-5'>__Left Sidebar</b:widget-setting>
-                      <b:widget-setting name='text-4'>_Post Layouts</b:widget-setting>
-                      <b:widget-setting name='text-7'>__Right Sidebar</b:widget-setting>
-                      <b:widget-setting name='text-6'>__Full Width</b:widget-setting>
-                      <b:widget-setting name='text-11'>Mega Menu</b:widget-setting>
-                      <b:widget-setting name='text-12'>Tipography</b:widget-setting>
-                      <b:widget-setting name='text-13'>Paid by - technovimal.in</b:widget-setting>
+                      <b:widget-setting name='text-1'>Latest Jobs</b:widget-setting>
+                      <b:widget-setting name='text-0'><![CDATA[&#160;]]></b:widget-setting>
+                      <b:widget-setting name='text-3'> Admit Card</b:widget-setting>
+                      <b:widget-setting name='text-2'>Results</b:widget-setting>
+                      <b:widget-setting name='text-5'>Admission</b:widget-setting>
+                      <b:widget-setting name='text-4'>Syllabus</b:widget-setting>
+                      <b:widget-setting name='text-7'>_Full Form</b:widget-setting>
+                      <b:widget-setting name='text-6'>More</b:widget-setting>
+                      <b:widget-setting name='sorting'>NONE</b:widget-setting>
+                      <b:widget-setting name='link-1'>#</b:widget-setting>
+                      <b:widget-setting name='link-2'>#</b:widget-setting>
+                      <b:widget-setting name='link-0'>{homepage}</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
